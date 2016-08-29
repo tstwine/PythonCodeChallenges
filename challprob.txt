@@ -1,0 +1,31 @@
+Challenge- 2
+write a program to find the longest word in the sentence inout by the user
+
+Input- Users entera s sentence
+Process-Program that finds the longest word in sentence
+OUtput- THe longest word in the sentence. 
+
+
+Write a program to reverse the word
+
+
+userInput = input("Please enter a sentence: ")
+
+wordList = userInput.split(" ")
+wordList.revese()
+newWord = ''.jpin(wordList)
+
+Challenge -1
+Write a program to reverse the sentence wordwise.
+
+Input-User enters sentence
+Process- Prgram reverse sentence
+Output- Revesed sentence Write.
+
+
+Challenge 3-
+Write a program to check if a word has unique characters or not(ignoring case).
+
+Input-user enter a word
+Process-program determines if the word has any duplicate letters
+Output-Print whether or not hte word has any duplicate letters. If does have duplicates, print the duplicate lettes(s)
